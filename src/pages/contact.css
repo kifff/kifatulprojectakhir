@@ -1,0 +1,84 @@
+@media screen and (min-width: 800px) and (max-width: 2160px) {
+  .contact {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .contact form {
+    display: inline-block;
+    text-align: left;
+  }
+
+  .contact label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .contact input,
+  .contact textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+  }
+
+  .contact button {
+    padding: 10px 20px;
+    background-color: #282c34;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  .contact button:hover {
+    background-color: #444;
+  }
+  .desc {
+    margin-top: 150px;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 2160px) {
+  .contact {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .contact form {
+    display: inline-block;
+    text-align: left;
+  }
+
+  .contact label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .contact input,
+  .contact textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+  }
+
+  .contact button {
+    padding: 10px 20px;
+    background-color: #282c34;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  .contact button:hover {
+    background-color: #444;
+  }
+  .desc {
+    display: block;
+    /* justify-content: center; */
+    margin-top: 150px;
+    /* background-color: #444; */
+    width: 100%;
+  }
+}
