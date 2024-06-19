@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-import portfolioImage from "../assets/images/0AF76C96-F2C2-4632-9FE3-6D22142937A5_1_106_c.jpeg";
+import portfolioImage from "../assets/images/kifffprofil2.png";
 
 const Home = () => {
   return (
