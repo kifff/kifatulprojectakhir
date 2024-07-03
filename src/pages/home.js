@@ -43,7 +43,7 @@
 
 
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "node_modules/bootstrap/dist/css/bootstrap.min.css";
 import portfolioImage from "../assets/images/kifffwebta.png";
 import "./home.css";
 
