@@ -26,7 +26,7 @@
 // export default Contact;
 
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "./contact.css";
 
 const Contact = () => {
