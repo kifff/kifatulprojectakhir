@@ -1,4 +1,4 @@
-.header {
+/* .header {
   background-color: #282c34;
   padding: 0px;
   color: white;
@@ -21,4 +21,16 @@
 .header nav ul li a {
   color: white;
   text-decoration: none;
+}
+ */
+
+.header {
+  z-index: 2;
+  height: 100px;
+}
+
+@media screen and (min-width: 800px) and (max-width: 2160px) {
+  .header h1 {
+    margin-right: 10px;
+  }
 }
