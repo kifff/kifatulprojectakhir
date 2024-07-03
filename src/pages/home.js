@@ -80,28 +80,28 @@ const Home = () => {
                 style={{ fontSize: "4rem" }}
               >
                 <a href="https://github.com/kifff" className="mr-3">
-                  <i className="bi bi-github"></i>
+                  // <i className="bi bi-github"></i>
                   <p>GitHub</p>
                 </a>
                 <a
                   href="https://www.instagram.com/kifff.tn_24/"
                   className="mr-3"
                 >
-                  <i className="bi bi-instagram"></i>
+                  // <i className="bi bi-instagram"></i>
                   <p>Instagran</p>
                 </a>
                 <a
                   href="https://www.linkedin.com/in/kifatul-najmi-a089151b8/"
                   className="mr-3"
                 >
-                  <i className="bi bi-linkedin"></i>
+                  // <i className="bi bi-linkedin"></i>
                   <p>LinkedIn</p>
                 </a>
                 <a
                   href="https://www.youtube.com/channel/UCX2p5jQRdhZJufUNakU-2Mg"
                   className="mr-3"
                 >
-                  <i className="bi bi-youtube"></i>
+                  // <i className="bi bi-youtube"></i>
                   <p>YouTube</p>
                 </a>
               </div>
