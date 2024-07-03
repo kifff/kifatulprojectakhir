@@ -102,7 +102,7 @@
 // export default Projects;
 
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "./project.css";
 import portfolioImage1 from "../assets/images/g1.png";
 import portfolioImage2 from "../assets/images/g2.png";
