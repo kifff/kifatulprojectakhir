@@ -67,7 +67,15 @@ const Home = () => {
               <div className="hello text-white">Hello,</div>
               <div className="im text-white">I'm Kifff</div>
             </div>
-    <div className="container2 mt-5 text-white ">
+
+            <div className="bb">
+              <div className="be text-white">
+                My study focus and concentration is in the field of backend
+                engineering, artificial intelligence, embedded systems /
+                internet of things.
+              </div>
+            </div>
+                      <div className="container2 mt-5 text-white ">
               <div
                 className="d-flex justify-content-between align-items-center position-z-index text-white"
                 style={{ fontSize: "4rem" }}
@@ -98,13 +106,6 @@ const Home = () => {
                   <p>YouTube</p>
                 </a>
               </div>
-            <div className="bb">
-              <div className="be text-white">
-                My study focus and concentration is in the field of backend
-                engineering, artificial intelligence, embedded systems /
-                internet of things.
-              </div>
-            </div>
             
               <br /> <br /> <br />
             </div>
